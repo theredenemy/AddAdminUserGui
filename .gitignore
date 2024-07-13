@@ -1,0 +1,8 @@
+/#adduserui.tcl#
+/.venv
+/app.spec
+/backups
+/build
+/dist
+/ui
+/__pycache__
